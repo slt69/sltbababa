@@ -5,12 +5,11 @@
   "description": "ทดสอบระบบ",
   "keywords": [
     "ทดสอบระบบ"
-
   ],
   "activationCommands": {
     "atom-workspace": "sltbababa:toggle"
   },
-  "repository": "https://github.com/slt69/sltbababa/",
+  "repository": "https://github.com/slt69/sltbababa",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
