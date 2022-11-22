@@ -5,7 +5,6 @@
   "description": "สวัสดี",
   "keywords": [
     "สวัสดี",
-
   ],
   "activationCommands": {
     "atom-workspace": "sltbababa:toggle"
